@@ -1,0 +1,23 @@
+{
+  "name": "sit323-2025-prac6p",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Karansood007/sit323-2025-prac6p.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Karansood007/sit323-2025-prac6p/issues"
+  },
+  "homepage": "https://github.com/Karansood007/sit323-2025-prac6p#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
