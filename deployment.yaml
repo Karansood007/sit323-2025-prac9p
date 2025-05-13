@@ -17,3 +17,8 @@ spec:
           image: karansood07/node-app:1.0
           ports:
             - containerPort: 3000
+          env:
+            - name: MONGO_URI
+              value: "mongodb://root:eW91cnBhc3N3b3Jk@mongodb:27017/admin"  
+            - name: MONGO_DB_NAME
+              value: "mydatabase"  
